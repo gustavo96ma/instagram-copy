@@ -1,0 +1,56 @@
+.icon-link-menu, .icon-link-post {
+    color: black;
+}
+
+.icon-link-menu:hover {
+    color: black;
+}
+
+.icon-link-post:hover {
+    color: gray;
+}
+
+.topbar-profile-photo, .like-profile-photo {
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+
+#topbar-profile-photo__photo {
+    width: auto;
+    height: 2em;
+}
+
+.stories-profile-photo {
+    width: 3.5em;
+    height: 3.5em;
+    position: relative;
+}
+
+#stories-profile-photo__photo {
+    width: auto;
+    height: 4em;
+}
+
+.stories-user {
+    font-size: small;
+}
+
+.post-profile-photo {
+    width: 2.25em;
+    height: 2.25em;
+    position: relative;
+}
+
+#like-profile-photo__photo {
+    width: auto;
+    height: 1.7em;
+}
+
+#post-time {
+    font-size: 0.7em;
+}
+
+#aside-profile-name{
+    font-size: 0.85em;
+}
